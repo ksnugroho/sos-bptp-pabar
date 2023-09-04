@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
-$username = "u5471254_sos";
-$password = "sos2020";
+$username = "root";
+$password = "";
 $database = "u5471254_sos";
 $con = mysqli_connect($host,$username,$password,$database);
 if (!$con) {
